@@ -1,3 +1,3 @@
 # webpack-demo
 
-demonstration of webpack configuration for react.
+demonstration of webpack configuration for React.
